@@ -12942,82 +12942,6 @@
     }
   },
   {
-    "id": "50TA23",
-    "name": "DAVID MOORE",
-    "goals": {
-      "fce": 73,
-      "incPct": 15,
-      "cbPct": 12,
-      "cpdGross": 4.5,
-      "cpdNet": 3.5
-    },
-    "parts": null,
-    "partsMonthly": [],
-    "data25": {},
-    "data26": {
-      "JUN": {
-        "gross": 10,
-        "days": 22,
-        "incPct": 0,
-        "cbPct": 0,
-        "cpdGross": 0.5,
-        "cpdNet": 0.5,
-        "parts": 0,
-        "rtCall": 2,
-        "ttCall": 0,
-        "ctDay": 0.9,
-        "ttDay": 0,
-        "at": 0.9,
-        "onsite": 0,
-        "stdResponse": 0,
-        "fce": 100,
-        "firstDispatch": null,
-        "firstArrival": null,
-        "lastDispatch": null,
-        "lastComplete": null,
-        "avgDur": null
-      }
-    }
-  },
-  {
-    "id": "50TB02",
-    "name": "Jerome Reyes",
-    "goals": {
-      "fce": 73,
-      "incPct": 15,
-      "cbPct": 12,
-      "cpdGross": 4.5,
-      "cpdNet": 3.5
-    },
-    "parts": null,
-    "partsMonthly": [],
-    "data25": {},
-    "data26": {
-      "JUN": {
-        "gross": 1,
-        "days": 22,
-        "incPct": 100,
-        "cbPct": 0,
-        "cpdGross": 0,
-        "cpdNet": 0,
-        "parts": 0,
-        "rtCall": 2.3,
-        "ttCall": 0.7,
-        "ctDay": 0.1,
-        "ttDay": 0,
-        "at": 0.1,
-        "onsite": 0,
-        "stdResponse": 0,
-        "fce": 0,
-        "firstDispatch": null,
-        "firstArrival": null,
-        "lastDispatch": null,
-        "lastComplete": null,
-        "avgDur": null
-      }
-    }
-  },
-  {
     "id": "50TC03",
     "name": "Craig Comfort",
     "goals": {
@@ -13056,44 +12980,6 @@
     }
   },
   {
-    "id": "50TK17",
-    "name": "Joe Wallace",
-    "goals": {
-      "fce": 73,
-      "incPct": 15,
-      "cbPct": 12,
-      "cpdGross": 4.5,
-      "cpdNet": 3.5
-    },
-    "parts": null,
-    "partsMonthly": [],
-    "data25": {},
-    "data26": {
-      "JUN": {
-        "gross": 1,
-        "days": 22,
-        "incPct": 0,
-        "cbPct": 0,
-        "cpdGross": 0,
-        "cpdNet": 0,
-        "parts": 0,
-        "rtCall": 3.2,
-        "ttCall": 0.4,
-        "ctDay": 0.1,
-        "ttDay": 0,
-        "at": 0.1,
-        "onsite": 0,
-        "stdResponse": 0,
-        "fce": 100,
-        "firstDispatch": null,
-        "firstArrival": null,
-        "lastDispatch": null,
-        "lastComplete": null,
-        "avgDur": null
-      }
-    }
-  },
-  {
     "id": "50TK18",
     "name": "Will Davenport",
     "goals": {
@@ -13123,44 +13009,6 @@
         "onsite": 0.7,
         "stdResponse": 0.7,
         "fce": 100,
-        "firstDispatch": null,
-        "firstArrival": null,
-        "lastDispatch": null,
-        "lastComplete": null,
-        "avgDur": null
-      }
-    }
-  },
-  {
-    "id": "50TK22",
-    "name": "Corbin Harper",
-    "goals": {
-      "fce": 73,
-      "incPct": 15,
-      "cbPct": 12,
-      "cpdGross": 4.5,
-      "cpdNet": 3.5
-    },
-    "parts": null,
-    "partsMonthly": [],
-    "data25": {},
-    "data26": {
-      "JUN": {
-        "gross": 2,
-        "days": 22,
-        "incPct": 50,
-        "cbPct": 50,
-        "cpdGross": 0.1,
-        "cpdNet": 0,
-        "parts": 0,
-        "rtCall": 2.3,
-        "ttCall": 0.9,
-        "ctDay": 0.2,
-        "ttDay": 0.1,
-        "at": 0.3,
-        "onsite": 6.3,
-        "stdResponse": 0.58,
-        "fce": 0,
         "firstDispatch": null,
         "firstArrival": null,
         "lastDispatch": null,
